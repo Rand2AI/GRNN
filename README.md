@@ -4,7 +4,7 @@
 ---
 This is the implementation of the paper "GRNN: Generative Regression Neural Network - A Data Leakage Attack for Federated Learning". In this paper, we show that, in Federated Learning (FL) system, image-based privacy data can be easily recovered in full from the shared gradient only via our proposed Generative Regression Neural Network (GRNN). We formulate the attack to be a regression problem and optimise two branches of the generative model by minimising the distance between gradients. We evaluate our method on several image classification tasks. The results illustrate that our proposed GRNN outperforms state-of-the-art methods with better stability, stronger robustness, and higher accuracy. It also has no convergence requirement to the global FL model.
 
-![image](https://https://github.com/Rand2AI/GRNN/master/images/GRNN.Details.png)
+![image](https://github.com/Rand2AI/GRNN/blob/main/images/GRNN.Details.png)
 
 ## Requirements
 ---
@@ -22,11 +22,11 @@ tqdm==4.45.0
 
 ## Examples
 ---
-![image](https://https://github.com/Rand2AI/GRNN/master/images/Examples.png)
+![image](https://github.com/Rand2AI/GRNN/blob/main/images/Examples.png)
 
 ## Performance
 ---
-![image](https://https://github.com/Rand2AI/GRNN/master/images/Results.png)
+![image](https://github.com/Rand2AI/GRNN/blob/main/images/Results.png)
 
 ## How to use
 ---
