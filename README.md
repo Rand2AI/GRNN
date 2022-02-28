@@ -58,12 +58,16 @@ tqdm==4.45.0
 
 If you find this work helpful for your research, please cite the following paper:
 
-    @article{ren2021grnn,
-      title={GRNN: Generative Regression Neural Network--A Data Leakage Attack for Federated Learning},
-      author={Ren, Hanchi and Deng, Jingjing and Xie, Xianghua},
-      journal={ACM Transactions on Intelligent Systems and Technology},
-      year={2021}
-    }
+    @article{10.1145/3510032,
+             author = {Ren, Hanchi and Deng, Jingjing and Xie, Xianghua},
+             title = {GRNN: Generative Regression Neural Network - A Data Leakage Attack for Federated Learning},
+             year = {2022},
+             publisher = {Association for Computing Machinery},
+             address = {New York, NY, USA},
+             issn = {2157-6904},
+             url = {https://doi.org/10.1145/3510032},
+             journal = {ACM Trans. Intell. Syst. Technol.}
+            }
 
 ## Acknowledgement
 
